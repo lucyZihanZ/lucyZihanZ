@@ -4,7 +4,7 @@ I'm **Zihan (Lucy) Zhao**, a Master of Science student in Statistics and Data Sc
 
 * 🔭 I’m currently focused on **Graph Neural Networks** and **deep learning architectures**, with a keen interest in **cross-domain adaptation**, **transfer learning** and **alignments** tasks, where I worked with Professor Kaize Ding at [REAL Lab](https://kaize0409.github.io/Advising.html).
 
-* 🌱 I’m continuously learning and exploring new advancements in **machine learning applications**, particularly in areas like **Natural Language Processing (NLP)**, **time-series analysis**, and **generative AI**, drawing from my research on **LLMs for molecule design** and my **RAG-based clinical QA system**.
+* 🌱 I’m continuously learning and exploring new advancements in **machine learning applications**, particularly in areas like **Natural Language Processing (NLP)**, **time-series analysis**, and **generative AI**.
 
 * 👯 I’m looking to collaborate on projects involving **data science, AI/ML, and statistical modeling**, especially those with a focus on impact in finance, healthcare, or business solutions.
 
@@ -18,7 +18,8 @@ I'm **Zihan (Lucy) Zhao**, a Master of Science student in Statistics and Data Sc
 
   * **Credit risk modeling** and **portfolio optimization** including **fraud detection**, **return-risk management** and **quantitative research**.
 
-  * **Feature engineering** and **data analysis** for large datasets.
+  * **Feature engineering** and **statistical analysis** for large datasets.
+   
 
 * 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/lucy-zhao-2b0225299/) or email me at ZihanZhao2024@u.northwestern.edu.
 
