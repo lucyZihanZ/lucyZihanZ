@@ -10,13 +10,13 @@ I'm **Zihan (Lucy) Zhao**, a Master of Science student in Statistics and Data Sc
 
 * 🤔 I’m always open to discussing **LLM fine-tuning strategies**, **data imputation techniques**, and **robust A/B testing methodologies**.
 
-* 💬 Ask me about my experience in:
+* 💬 My experience include:
 
-  * **Developing Transformer-based models** for sentiment prediction.
+  * **Developing Transformer-based models** for sentiment prediction([Sentiment Analysis](https://github.com/lucyZihanZ/Live_streamers_comments_analysis_BERT_model)).
 
-  * **Building RAG systems** and **fine-tuning Gemini LLMs**.
+  * **RAG-powered LLM chatbot for healthcare applications** in healthcare and medical fields([HealthBot](https://github.com/lucyZihanZ/HealthBot-RAG)).
 
-  * **Credit risk modeling** and **portfolio optimization**.
+  * **Credit risk modeling** and **portfolio optimization** including **fraud detection**, **return-risk management** and **quantitative research**.
 
   * **Feature engineering** and **data analysis** for large datasets.
 
