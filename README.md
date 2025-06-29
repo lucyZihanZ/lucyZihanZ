@@ -12,7 +12,7 @@ I'm **Zihan (Lucy) Zhao**, a Master of Science student in Statistics and Data Sc
 
 * 💬 My experience include:
 
-  * **Developing Transformer-based models** for business analysis ([Sentiment Analysis](https://github.com/lucyZihanZ/Live_streamers_comments_analysis_BERT_model)).
+  * **Self-supervised GNN recommender** for the end-to-end sequential recommendation tasks ([HardGNN](https://github.com/lucyZihanZ/HardGNN)).
 
   * **RAG-powered LLM chatbot for healthcare applications** in healthcare and medical fields ([HealthBot](https://github.com/lucyZihanZ/HealthBot-RAG)).
 
