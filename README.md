@@ -2,10 +2,10 @@
 
 I'm **Zihan (Lucy) Zhao**, a Master of Science student in Statistics and Data Science at Northwestern University, passionate about leveraging data and advanced models to solve complex problems.
 
-* 🔭 I’m currently focused on **machine learning applications**, particularly in areas like **Natural Language Processing (NLP)**, **time-series analysis**, and **generative AI**, drawing from my research on **LLMs for molecule design** and my **RAG-based clinical QA system**.
+* 🔭 I’m currently focused on **machine learning applications**, particularly in areas like **Natural Language Processing (NLP)**, **time-series analysis**, and **generative AI**, drawing from my research on **LLMs for molecule design**(https://arxiv.org/pdf/2505.16094) and my **RAG-based clinical QA system**.
 
-* 🌱 I’m continuously learning and exploring new advancements in **Graph Neural Networks** and **deep learning architectures**, with a keen interest in their real-world applications.
-
+* 🌱 I’m continuously learning and exploring new advancements in **Graph Neural Networks** and **deep learning architectures**, with a keen interest in **cross-domain adaptation**, **transfer learning** and **alignments** tasks.
+* 
 * 👯 I’m looking to collaborate on projects involving **data science, AI/ML, and statistical modeling**, especially those with a focus on impact in finance, healthcare, or business solutions.
 
 * 🤔 I’m always open to discussing **LLM fine-tuning strategies**, **data imputation techniques**, and **robust A/B testing methodologies**.
