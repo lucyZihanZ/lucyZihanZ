@@ -20,6 +20,7 @@ I'm **Zihan (Lucy) Zhao**, a Master of Science student in Statistics and Data Sc
 
   * **Feature engineering** and **data analysis** for large datasets.
 
-* 📫 How to reach me: You can connect with me on [LinkedIn](https://linkedin.com/in/zihan-zhao) or email me at ZihanZhao2024@u.northwestern.edu.
+* 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/lucy-zhao-2b0225299/) or email me at ZihanZhao2024@u.northwestern.edu.
 
 * ⚡ Fun fact: I have experience coordinating large-scale events and organizing science outreach programs for children!
+  
