@@ -26,6 +26,7 @@ I'm **Zihan (Lucy) Zhao**, a Master of Science student in Statistics and Data Sc
 
 * 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/lucy-zhao-2b0225299/) or email me at ZihanZhao2024@u.northwestern.edu.
 
-* ⚡ Fun Facts: I love animals—especially small and cute ones! Spending time with them makes me feel happy and relaxed all day.
+* ⚡ Fun Facts: I love animals—especially small and cute ones! Spending time with them makes me feel happy and relaxed.
+  
 
 
