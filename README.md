@@ -2,7 +2,10 @@
 
 I'm **Zihan (Lucy) Zhao**, a Master of Science student in Statistics and Data Science at Northwestern University, passionate about leveraging data and advanced models to solve complex problems.
 
-* 🔭 I’m currently focused on **Graph Neural Networks** and **deep learning architectures**, with a keen interest in **cross-domain adaptation**, **transfer learning** and **alignments** tasks, where I worked with Professor Kaize Ding at [REAL Lab](https://kaize0409.github.io/Advising.html).
+🌟 Recent Update: I’ve built a simple and user-friendly recommendation engine, leveraging the power of AI for diverse recommendations, check it at [Recommendation Engine](https://github.com/lucyZihanZ/LLM4Rec).
+
+* 🔭 I’m currently focused on **Graph Neural Networks** and **deep learning architectures**, with a keen interest in **cross-domain adaptation**, **transfer learning** and **Diffusion Models** tasks, especially on _Flow matching for imputation works_ where I worked with Professor Kaize Ding at [REAL Lab](https://kaize0409.github.io/Advising.html).
+
 
 * 🌱 I’m continuously learning and exploring new advancements in **machine learning applications**, particularly in areas like **Natural Language Processing (NLP)**, **time-series analysis**, and **generative AI**.
 
