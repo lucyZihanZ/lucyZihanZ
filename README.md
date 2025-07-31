@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Zihan (Lucy) Zhao**, a Master of Science student in Statistics and Data Science at Northwestern University, passionate about leveraging data and advanced models to solve complex problems. Here is my **[Resume](resume.pdf)**
+I'm **Zihan (Lucy) Zhao**, a Master of Science student in Statistics and Data Science at Northwestern University, passionate about leveraging data and advanced models to solve complex problems. Here is my **[Resume](resume20250729.pdf)**
 
 🌟 Recent Update: I’ve built a simple and user-friendly recommendation engine, leveraging the power of AI for diverse recommendations, check it at [Recommendation Engine](https://github.com/lucyZihanZ/LLM4Rec).
 
