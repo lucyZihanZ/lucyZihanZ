@@ -28,8 +28,8 @@ I'm **Zihan (Lucy) Zhao**, a Master of Science student in Statistics and Data Sc
 
 * ⚡ Fun Facts: I love animals—especially small and cute ones! Spending time with them makes me feel happy and relaxed.
 
-![Stay with Canada Goose](https://github.com/lucyZihanZ/Animals-ig/IMG_3852.JPG?raw=true)
+![Stay with Canada Goose](../Animals-ig/IMG_3852.JPG)
 
-![Cute Squirrels](https://github.com/lucyZihanZ/Animals-ig/IMG_9443.HEIC?raw=true))
+![Cute Squirrels](../Animals-ig/IMG_9443.HEIC)
 
 
