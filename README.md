@@ -19,7 +19,7 @@ I'm **Zihan (Lucy) Zhao**, a Master of Science student in Statistics and Data Sc
 
   * **RAG-powered LLM chatbot for healthcare applications** in healthcare and medical fields ([HealthBot](https://github.com/lucyZihanZ/HealthBot-RAG)).
 
-  * **Credit risk modeling** and **portfolio optimization** including **fraud detection**, **return-risk management** and **quantitative research**.
+  * **Credit risk modeling** and **portfolio optimization** including **fraud detection**, **return-risk management** and **quantitative research**, where I worked at the [Ernst & Young](https://www.ey.com/en_cn/services/consulting/actuarial-services).
 
   * **Feature engineering** and **statistical analysis** for large datasets.
    
